@@ -58,4 +58,4 @@
 - Description: 
 - <a href="https://github.com/peternjathi/Edmond /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/Edmond "/></a>
 
-For full list of repositories, click [**here**](https://github.com/tungbq?tab=repositories&q=&type=&language=&sort=stargazers).
+For full list of repositories, click [**here**](https://github.com/peternjathi?tab=repositories).

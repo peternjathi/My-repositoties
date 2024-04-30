@@ -1,5 +1,5 @@
 <h1 align="center">My Repositories Landscape 💎</h1>
-<p align="center">Welcome to my repositories landscape 👋</p>
+<p align="center">Table of contents.. 👋</p>
 
 ## 1. Amazon-S3-static-Web-
 - URL: <a href="https://github.com/peternjathi/Amazon-S3-static-Web-">peternjathi/Amazon-S3-static-Web-</a>

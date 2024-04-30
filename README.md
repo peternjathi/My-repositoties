@@ -1,7 +1,5 @@
-<h1 align="center">Repositories Landscape 💎</h1>
+<h1 align="center">My Repositories Landscape 💎</h1>
 <p align="center">Welcome to my repositories landscape 👋</p>
-
-If you want to create your own repository landscape similar to this, please follow this [**guide**](./create-repo-landscape.md) 📖
 
 ## 1. Amazon-S3-static-Web-
 - URL: <a href="https://github.com/peternjathi/Amazon-S3-static-Web-">peternjathi/Amazon-S3-static-Web-</a>

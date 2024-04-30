@@ -3,61 +3,61 @@
 
 If you want to create your own repository landscape similar to this, please follow this [**guide**](./create-repo-landscape.md) 📖
 
-## 1. devops-basics
-- URL: <a href="https://github.com/tungbq/devops-basics">tungbq/devops-basics</a>
-- Description: 🚀 Practical and document place for DevOps toolchain
-- <a href="https://github.com/tungbq/devops-basics/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-basics"/></a>
-## 2. AWSHub
-- URL: <a href="https://github.com/tungbq/AWSHub">tungbq/AWSHub</a>
-- Description: 📚 Collection of AWS Services documentation and learning resources ☁️
-- <a href="https://github.com/tungbq/AWSHub/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/AWSHub"/></a>
-## 3. devops-toolkit
-- URL: <a href="https://github.com/tungbq/devops-toolkit">tungbq/devops-toolkit</a>
-- Description: 🐳 Container image for an all-in-one DevOps environment with popular tools like Ansible, Terraform, kubectl, Helm, AWS CLI, Azure CLI, Git, Python and more.
-- <a href="https://github.com/tungbq/devops-toolkit/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-toolkit"/></a>
-## 4. devops-project
-- URL: <a href="https://github.com/tungbq/devops-project">tungbq/devops-project</a>
-- Description: Collection of DevOps projects to level up your DevOps skills
-- <a href="https://github.com/tungbq/devops-project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-project"/></a>
-## 5. aws-lab-with-terraform
-- URL: <a href="https://github.com/tungbq/aws-lab-with-terraform">tungbq/aws-lab-with-terraform</a>
-- Description: Collection of Terraform code for AWS labs
-- <a href="https://github.com/tungbq/aws-lab-with-terraform/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/aws-lab-with-terraform"/></a>
-## 6. awesome-workflow
-- URL: <a href="https://github.com/tungbq/awesome-workflow">tungbq/awesome-workflow</a>
-- Description: :octocat: Awesome lists about GitHub workflows to automate your development workflow
-- <a href="https://github.com/tungbq/awesome-workflow/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/awesome-workflow"/></a>
-## 7. k8sHub
-- URL: <a href="https://github.com/tungbq/k8sHub">tungbq/k8sHub</a>
-- Description: Kubernetes deployment samples, practices, and examples
-- <a href="https://github.com/tungbq/k8sHub/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/k8sHub"/></a>
-## 8. Azure-DevOps-Pipeline
-- URL: <a href="https://github.com/tungbq/Azure-DevOps-Pipeline">tungbq/Azure-DevOps-Pipeline</a>
-- Description: Azure-DevOps tutorials
-- <a href="https://github.com/tungbq/Azure-DevOps-Pipeline/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/Azure-DevOps-Pipeline"/></a>
-## 9. find-github-issue
-- URL: <a href="https://github.com/tungbq/find-github-issue">tungbq/find-github-issue</a>
-- Description: Collection of GitHub filters for open-source contributors
-- <a href="https://github.com/tungbq/find-github-issue/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/find-github-issue"/></a>
-## 10. challenges
-- URL: <a href="https://github.com/tungbq/challenges">tungbq/challenges</a>
-- Description: Leetcode challenges
-- <a href="https://github.com/tungbq/challenges/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/challenges"/></a>
-## 11. devops-dockerfiles
-- URL: <a href="https://github.com/tungbq/devops-dockerfiles">tungbq/devops-dockerfiles</a>
-- Description: Dockerfiles collection for DevOps tools
-- <a href="https://github.com/tungbq/devops-dockerfiles/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-dockerfiles"/></a>
-## 12. terraform-sample-project
-- URL: <a href="https://github.com/tungbq/terraform-sample-project">tungbq/terraform-sample-project</a>
-- Description: Sample Terraform project with best practice
-- <a href="https://github.com/tungbq/terraform-sample-project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/terraform-sample-project"/></a>
-## 13. repos
-- URL: <a href="https://github.com/tungbq/repos">tungbq/repos</a>
-- Description: 🚀 My repositories landscape
-- <a href="https://github.com/tungbq/repos/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/repos"/></a>
-## 14. python-examples
-- URL: <a href="https://github.com/tungbq/python-examples">tungbq/python-examples</a>
-- Description: Set of Python examples, practice exercises, and learning resources
-- <a href="https://github.com/tungbq/python-examples/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/python-examples"/></a>
+## 1. Amazon-S3-static-Web-
+- URL: <a href="https://github.com/peternjathi/Amazon-S3-static-Web-">peternjathi/Amazon-S3-static-Web-</a>
+- Description: null
+- <a href="https://github.com/peternjathi/Amazon-S3-static-Web-/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/Amazon-S3-static-Web-"/></a>
+## 2. Personal-project
+- URL: <a href="https://github.com/peternjathi/Personal-project">peternjathi/Personal-project</a>
+- Description: null
+- <a href="https://github.com/peternjathi/Personal-project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/Personal-project"/></a>
+## 3. CloudFormation
+- URL: <a href="https://github.com/peternjathi/CloudFormation ">peternjathi/CloudFormation </a>
+- Description: 
+- <a href="https://github.com/peternjathi/CloudFormation /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/CloudFormation "/></a>
+## 4. wencodepipeline
+- URL: <a href="https://github.com/peternjathi/wencodepipeline ">peternjathi/wencodepipeline </a>
+- Description: 
+- <a href="https://github.com/peternjathi/wencodepipeline /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/wencodepipeline "/></a>
+## 5. peter234
+- URL: <a href="https://github.com/peternjathi/peter234 ">peternjathi/peter234 </a>
+- Description: 
+- <a href="https://github.com/peternjathi/peter234 /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/peter234 "/></a>
+## 6. matplotlib-projects
+- URL: <a href="https://github.com/peternjathi/matplotlib-projects">peternjathi/matplotlib-projects</a>
+- Description: null
+- <a href="https://github.com/peternjathi/matplotlib-projects/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/matplotlib-projects"/></a>
+## 7. code1pipeline
+- URL: <a href="https://github.com/peternjathi/code1pipeline">peternjathi/code1pipeline</a>
+- Description: null
+- <a href="https://github.com/peternjathi/code1pipeline/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/code1pipeline"/></a>
+## 8. jupyter-installation-on-kali
+- URL: <a href="https://github.com/peternjathi/jupyter-installation-on-kali ">peternjathi/jupyter-installation-on-kali </a>
+- Description: 
+- <a href="https://github.com/peternjathi/jupyter-installation-on-kali /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/jupyter-installation-on-kali "/></a>
+## 9. njagra
+- URL: <a href="https://github.com/peternjathi/njagra ">peternjathi/njagra </a>
+- Description: 
+- <a href="https://github.com/peternjathi/njagra /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/njagra "/></a>
+## 10. Kirui-Project
+- URL: <a href="https://github.com/peternjathi/Kirui-Project">peternjathi/Kirui-Project</a>
+- Description: For  All my Aws cloud practitioner course
+- <a href="https://github.com/peternjathi/Kirui-Project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/Kirui-Project"/></a>
+## 11. aws-re-start-chrome
+- URL: <a href="https://github.com/peternjathi/aws-re-start-chrome">peternjathi/aws-re-start-chrome</a>
+- Description: Labs and challenges on AWS for the chrome channel 
+- <a href="https://github.com/peternjathi/aws-re-start-chrome/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/aws-re-start-chrome"/></a>
+## 12. aws_restart
+- URL: <a href="https://github.com/peternjathi/aws_restart ">peternjathi/aws_restart </a>
+- Description: 
+- <a href="https://github.com/peternjathi/aws_restart /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/aws_restart "/></a>
+## 13. langat
+- URL: <a href="https://github.com/peternjathi/langat ">peternjathi/langat </a>
+- Description: 
+- <a href="https://github.com/peternjathi/langat /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/langat "/></a>
+## 14. Edmond
+- URL: <a href="https://github.com/peternjathi/Edmond ">peternjathi/Edmond </a>
+- Description: 
+- <a href="https://github.com/peternjathi/Edmond /stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peternjathi/Edmond "/></a>
 
 For full list of repositories, click [**here**](https://github.com/tungbq?tab=repositories&q=&type=&language=&sort=stargazers).
